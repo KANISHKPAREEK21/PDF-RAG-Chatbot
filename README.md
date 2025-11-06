@@ -76,7 +76,8 @@ All wrapped in a slick **Streamlit UI** and deployed for free on **Streamlit Clo
 👉 [https://github.com/KANISHKPAREEK21/PDF-RAG-Chatbot](https://github.com/KANISHKPAREEK21/PDF-RAG-Chatbot)
 
 **Project walkthrough screen recording:**
-👉 [walkthrough-PDF-RAG-Chatbot]([https://github.com/KANISHKPAREEK21/PDF-RAG-Chatbot](https://drive.google.com/file/d/1bIFmdc2HItkHwzdMUEaHS9mSkrgZTFO5/view?usp=sharing))
+👉 [walkthrough-PDF-RAG-Chatbot](https://drive.google.com/file/d/1bIFmdc2HItkHwzdMUEaHS9mSkrgZTFO5/view?usp=sharing)
+
 ---
 
 ## ⚙️ Setup (Local or Cloud)
@@ -195,3 +196,4 @@ Open for collaboration, discussion, and improvements.
 ## ⭐ If you like it
 
 Give it a star ⭐ on GitHub, test it live, and share your feedback!
+
