@@ -1,0 +1,26 @@
+python-dotenv==1.0.1
+pydantic==2.9.2
+loguru==0.7.2
+pydantic-settings==2.4.0
+
+# LangChain + providers
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-openai==0.2.5
+langchain-google-genai==2.0.3
+
+# Vector DB
+lancedb==0.15.0
+
+# PDF + parsing
+pypdf==5.0.1
+
+# Web/API/UI
+fastapi==0.115.5
+uvicorn==0.30.6
+streamlit==1.39.0
+
+# Optional quality-of-life
+tenacity==9.0.0
+
+python-multipart==0.0.9
