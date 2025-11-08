@@ -6,8 +6,9 @@
 
 ## 🚀 Overview
 
-This project implements a **fully functional, production-worthy RAG Chatbot** capable of answering questions from one or more PDF documents.
-It was developed as part of a job interview assignment — but evolved into a complete, scalable AI solution that supports multiple providers (**Gemini**, **OpenAI**, **Azure OpenAI**) and modern vector storage with **LanceDB**.
+This project implements a **fully functional, production-ready RAG** (Retrieval-Augmented Generation) Chatbot capable of answering questions from one or multiple PDF documents.
+It is designed as a scalable, modular AI system that supports multiple model providers — **Gemini**, **OpenAI**, and **Azure OpenAI** — and uses **LanceDB** for efficient vector storage and retrieval.
+The architecture emphasizes flexibility, performance, and real-world usability, making it suitable for enterprise-level document intelligence applications.
 
 The chatbot can:
 
@@ -183,10 +184,10 @@ All folders auto-create at runtime.
 
 ## 💬 Author
 
-**Kanishk Pareek**
-📧 [kanishkpareek26@gmail.com](mailto:kanishkpareek26@gmail.com)
-LinkedIN : [kanishk-pareek/](https://www.linkedin.com/in/kanishk-pareek/)
-Open for collaboration, discussion, and improvements.
+**Kanishk Pareek**  
+📧 [kanishkpareek26@gmail.com](mailto:kanishkpareek26@gmail.com)  
+LinkedIN : [kanishk-pareek](https://www.linkedin.com/in/kanishk-pareek/)  
+Open for collaboration, discussion, and improvements.  
 
 > “This RAG Chatbot was built not just as an assignment —
 > but as a live demonstration of how AI can transform document understanding into seamless, conversational intelligence.”
@@ -196,4 +197,5 @@ Open for collaboration, discussion, and improvements.
 ## ⭐ If you like it
 
 Give it a star ⭐ on GitHub, test it live, and share your feedback!
+
 
